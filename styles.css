@@ -3,7 +3,8 @@
 	background-color: black;
 	width: 200px;
 	height: 2px;
-	margin: 300px auto;
+	position: absolute;
+	margin: 50% 50%;
 	transform-origin: center;
 	
 }
